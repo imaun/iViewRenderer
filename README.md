@@ -13,8 +13,8 @@ Sample usage :
 ```c#
 IViewRenderer _viewRenderer;
 await _viweRenderer.RenderViewAsync(this, "viewName", Model);
-This will render your view directly to the Http Response.
 ```
+This will render your view directly to the Http Response.
 
 If you want to get a View that has a Model as string then :
 
