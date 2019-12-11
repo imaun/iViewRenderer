@@ -5,13 +5,13 @@
     <version>1.0.0</version>
     <title>iViewRenderer - Render string directly to the Http Response</title>
     <authors>Iman Nemati</authors>
-    <owners>1st co</owners>
-    <licenseUrl>https://github.com/1stco/SeptaPayApiClient/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/1stco/SeptaPayApiClient</projectUrl>
+    <owners>imun</owners>
+    <licenseUrl>https://github.com/imaun/iViewRenderer/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/imaun/iViewRenderer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>SeptaPay payment API client for .NET 4.5</description>
-    <releaseNotes>Add PaymentToken for UnblockAmount and CancelAmnount methods.</releaseNotes>
-    <copyright>Copyright 2019 1st co</copyright>
-    <tags>payment</tags>
+    <description>Finds a view by it's name, inject model and get contents as string then render output directly to Http response.</description>
+    <releaseNotes>Add interface and methods</releaseNotes>
+    <copyright>Copyright 2019 imun</copyright>
+    <tags>http, mvc, view</tags>
   </metadata>
 </package>
